@@ -1,6 +1,6 @@
 `node index`
 
-Test against the README. Still in development.
+TestS against example.md. Still in development.
 
 Handles parents (via whitespace), developer IDs (parentheses), ignoring "..." pages.
 
